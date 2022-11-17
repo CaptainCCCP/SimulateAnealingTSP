@@ -1,3 +1,3 @@
 # SimulateAnealingTSP
-# using mindspore 1.9
-# numpy matplotlib 
+using mindspore 1.9
+numpy matplotlib 
